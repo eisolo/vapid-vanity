@@ -51,3 +51,10 @@ img {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   margin-bottom: 50px;
 }
+
+.updated-timestamp {
+  font-style: italic;
+  color: #808080;
+  font-size: 16px;
+  text-align: right;
+}
